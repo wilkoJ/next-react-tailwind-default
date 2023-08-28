@@ -1,3 +1,3 @@
-const App = () => <div>Majelan Homework !</div>;
+const App = () => <div></div>;
 
 export default App;
